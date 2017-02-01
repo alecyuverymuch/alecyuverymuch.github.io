@@ -159,7 +159,8 @@ header {
   /*!
    *
    */
-  background: rbg(100,100,100,0.25);
+  /*background: rbg(100,100,100,0.25);
+   */
   text-align: center;
   color: white;
 }
@@ -409,7 +410,7 @@ fieldset[disabled] .btn-primary.active {
 }
 img::selection {
   color: white;
-  background: transparent;
+  background: rgb(100,100,100,0,4);
 }
 img::-moz-selection {
   color: white;
