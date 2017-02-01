@@ -400,17 +400,17 @@ fieldset[disabled] .btn-primary.active {
 }
 ::-moz-selection {
   color: white;
-  text-shadow: none;
+  text-shadow: gray;
   background: #222222;
 }
 ::selection {
   color: white;
-  text-shadow: none;
+  text-shadow: gray;
   background: #222222;
 }
 img::selection {
   color: white;
-  background: rgb(100,100,100,0,4);
+  background: transparent;
 }
 img::-moz-selection {
   color: white;
