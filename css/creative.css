@@ -172,14 +172,14 @@ header .header-content .header-content-inner h1 {
   margin-top: 0;
   margin-bottom: 0;
   font-size: 48px;
-  text-shadow: 2px 0 0 #000, 0 -2px 0 #000, 0 2px 0 #000, -2px 0 0 #000;
+  text-shadow: 0.5px 0 0 #000, 0 -0.5px 0 #000, 0 0.5px 0 #000, -0.5px 0 0 #000;
 }
 header .header-content .header-content-inner hr {
   margin: 30px auto;
 }
 header .header-content .header-content-inner p {
   font-weight: 300;
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(150, 150, 150, 0.8);
   font-size: 16px;
   margin-bottom: 50px;
   text-shadow: none;
