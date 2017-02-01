@@ -162,7 +162,7 @@ header {
   /*background: rbg(100,100,100,0.25);
    */
   text-align: center;
-  color: white;
+  color: gray;
 }
 header .header-content {
   position: relative;
