@@ -182,7 +182,7 @@ header .header-content .header-content-inner p {
   color: rgba(255, 255, 255, 1);
   font-size: 16px;
   margin-bottom: 50px;
-  text-shadow: none;
+  text-shadow: 0.1px 0 0 #222, 0 -0.1px 0 #222, 0 0.1px 0 #222, -0.1px 0 0 #222;
 }
 @media (min-width: 768px) {
   header {
